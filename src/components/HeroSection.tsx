@@ -44,7 +44,7 @@ const HeroSection = () => {
         {/* CTAs */}
         <div className="flex flex-wrap gap-4 mt-10 opacity-0 animate-fade-in animation-delay-600">
           <a
-            href="#portfolio"
+            href="#project "
             className="inline-flex items-center gap-2 px-7 py-3 rounded-lg bg-primary text-primary-foreground font-heading font-semibold text-sm hover:shadow-neon-md transition-all duration-300 hover:scale-105"
           >
             View My Work
